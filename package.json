@@ -1,0 +1,15 @@
+{
+  "name": "sumsumb",
+  "version": "1.0.0",
+  "main": "AppTokenJsExample.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^0.23.0",
+    "form-data": "^4.0.0"
+  }
+}
